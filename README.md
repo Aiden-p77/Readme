@@ -31,7 +31,7 @@ I'm a Software Developer experienced with Delphi and C# programming languages al
 <a href="https://cpanel.net/" target="_blank" rel="noreferrer"><img src="https://www.pngall.com/wp-content/uploads/11/CPanel-PNG-Pic.png" width="40" height="40" alt="CPanel" /></a>
 <a href="https://wordpress.org/download/" target="_blank" rel="noreferrer"><img src="https://download.logo.wine/logo/WordPress.com/WordPress.com-Logo.wine.png" width="60" height="50" alt="WordPress" /></a>
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="40" height="40" alt="Postman" /></a>
-<a href="https://mikrotik.com/" target="_blank" rel="noreferrer"><img src="https://stubarea51.net/wp-content/uploads/2020/01/logo-mikrotik-png-6.png" width="55" height="40" alt="Mikrotik" /></a>
+<a href="https://mikrotik.com/" target="_blank" rel="noreferrer"><img src="https://stubarea51.net/wp-content/uploads/2020/01/logo-mikrotik-png-6.png" width="70" height="40" alt="Mikrotik" /></a>
 <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png" width="40" height="40" alt="Photoshop" /></a>
 <a href="https://www.comptia.org/certifications/network" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/220474/network-computer.svg" width="40" height="40" alt="Network" /></a>
 </p>
