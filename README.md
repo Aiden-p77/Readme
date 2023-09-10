@@ -26,10 +26,10 @@ I'm a Software Developer experienced with Delphi and C# programming languages al
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/2048px-Sqlite-square-icon.svg.png" width="40" height="40" alt="Sqlite" /></a>
 <a href="https://learn.microsoft.com/en-us/sql/t-sql/language-reference?view=sql-server-ver16" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/331761/sql-database-sql-azure.svg" width="40" height="40" alt="TSql" /></a>
 <a href="https://www.kali.org/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/330767/kalilinux.svg" width="40" height="40" alt="KaliLinux" /></a>
-<a href="https://restfulapi.net/" target="_blank" rel="noreferrer"><img src="https://keenethics.com/wp-content/uploads/2022/01/rest-api-1.svg" width="50" height="50" alt="RESTApi" /></a>
+<a href="https://restfulapi.net/" target="_blank" rel="noreferrer"><img src="https://keenethics.com/wp-content/uploads/2022/01/rest-api-1.svg" width="70" height="70" alt="RESTApi" /></a>
 <a href="https://www.directadmin.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/331367/directadmin.svg" width="40" height="40" alt="DirectAdmin" /></a>
 <a href="https://cpanel.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="40" height="40" alt="CPanel" /></a>
-<a href="https://wordpress.org/download/" target="_blank" rel="noreferrer"><img src="https://download.logo.wine/logo/WordPress.com/WordPress.com-Logo.wine.png" width="40" height="40" alt="WordPress" /></a>
+<a href="https://wordpress.org/download/" target="_blank" rel="noreferrer"><img src="https://download.logo.wine/logo/WordPress.com/WordPress.com-Logo.wine.png" width="50" height="50" alt="WordPress" /></a>
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="40" height="40" alt="Postman" /></a>
 <a href="https://mikrotik.com/" target="_blank" rel="noreferrer"><img src="https://stubarea51.net/wp-content/uploads/2020/01/logo-mikrotik-png-6.png" width="55" height="40" alt="Mikrotik" /></a>
 <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png" width="40" height="40" alt="Photoshop" /></a>
