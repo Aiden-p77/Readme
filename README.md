@@ -8,11 +8,11 @@ Software Developer
 
 I'm a Software Developer experienced with Delphi and C# programming languages also familiar with some basics of Server management using Windows Server & Linux.
 
-* 🌍  I'm based in Iran(and traveled TTürkiye
+* 🌍  I'm based in Iran(and traveled Türkiye)
 * 🖥️  See my resume at [Linkedin](https://www.linkedin.com/in/aiden-kazemzadeh-19b1a9196/)
 * ✉️  You can contact me at [abolfazl77ka@gmail.com](mailto:abolfazl77ka@gmail.com)
 * 🚀  I'm currently working on [RahnamaSoft](https://www.rahnamasoft.com/)
-* 🧠  I'm learning AI Development and PHP
+* 🧠  I'm learning AI Development and ASP.NET
 * 🤝  I'm open to collaborating on Open Source Projects
 
 ### Skills
@@ -20,7 +20,7 @@ I'm a Software Developer experienced with Delphi and C# programming languages al
 <p align="left">
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/19507241/64484929-d4b1cd80-d236-11e9-8bbe-1872b473bd64.png" width="40" height="40" alt="C#" /></a>
 <a href="https://docwiki.embarcadero.com/RADStudio/Alexandria/en/Documentation" target="_blank" rel="noreferrer"><img src="https://www.bverhue.nl/delphisvg/wp-content/uploads/2017/04/Embarcadero_Delphi_Logo.png" width="40" height="40" alt="Delphi" /></a>
-<a href="https://www.php.net/docs.php" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" width="50" height="40" alt="Php" /></a>
+<a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/1/net-logo-681E247422-seeklogo.com.png" width="50" height="40" alt="Php" /></a>
 <a href="https://www.microsoft.com/en-us/windows-server" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/windows-server-2.svg" width="55" height="40" alt="WindowsServer" /></a>
 <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/M/microsoft-sql-server-logo-96AF49E2B3-seeklogo.com.png" width="55" height="40" alt="MicrosoftSQLServer" /></a>
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/2048px-Sqlite-square-icon.svg.png" width="40" height="40" alt="Sqlite" /></a>
